@@ -1,0 +1,6 @@
+plotOrder,plotColor,operatingModelName,scenarioName,firstSimNum,lastSimNum,firstAssessYear,lastAssessYear,firstTSYear,perfectInfoCase,runAssessments,useAgeingErrorMatrix,minA,maxA,plusA, zeroCatch,initialCatch,survFreq,survSELog,survSETot,survNAge,survNAgeAdj,commNAge,commNAgeAdj,minSimNum,maxSimNum
+#1,1,2012Base,noFishing,0,0,2012,2029,1966,F,F,F,2,20,15,T,0,2,0.085,0.42,65,1,800,0.12,2,1000
+#2,2,2012Base,PerfectInformation,0,0,2012,2029,1966,T,F,F,2,20,15,F,251809,2,0.085,0.42,65,1,800,0.12,2,1000
+3,3,2012Base,annual,2,3,2012,2013,1966,F,T,T,2,20,15,F,251809,1,0.085,0.42,65,1,800,0.12,2,1000
+#4,4,2012TimeVaryingFisherySelectivity,biennial,2,3,2012,2013,1966,F,T,T,2,20,15,F,251809,2,0.085,0.42,65,1,800,0.12,2,1000
+#5,5,2012Base,sigR10,-1,50,2012,2029,1966,F,T,T,2,20,15,F,251809,3,0.085,0.42,65,1,800,0.12,2,1000
